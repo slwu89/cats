@@ -1,0 +1,9 @@
+---
+title: "My document"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+jupyter: julia-1.8
+---
